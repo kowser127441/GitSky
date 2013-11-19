@@ -8,6 +8,8 @@ if (!$con)
 
 mysql_select_db("boi_news", $con);
 
+// This is Edited File
+
 
 ?>
 
